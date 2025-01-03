@@ -1,0 +1,31 @@
+* {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+body {
+    background-color: black;
+    text-align: center;
+}
+
+h1 {
+    color: white;
+    font-weight: normal;
+    font-size: 50px;
+    text-align: center;
+}
+
+h2 {
+    color: white;
+    font-weight: 300;
+    font-size: 42px
+}
+
+a {
+    color: aquamarine;
+    font-size: 16px;
+}
+
+p.tagline {
+    font-size: 21px;
+    color: grey;
+}
